@@ -1,4 +1,4 @@
-#GitHub Actions using runner
+# GitHub Actions using runner
 name: CI/CD
 
 # Exclude the workflow on the helm chart
