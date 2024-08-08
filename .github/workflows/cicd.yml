@@ -1,7 +1,8 @@
-# GitHub Actions using runner
+# CICD using GitHub actions
+
 name: CI/CD
 
-# Exclude the workflow on the helm chart
+# Exclude the workflow to run on changes to the helm chart
 on:
   push:
     branches:
