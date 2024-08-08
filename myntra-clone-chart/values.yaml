@@ -8,7 +8,7 @@ image:
   repository: gouthamc125/myntra
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "10301053282"
+  tag: "10303123753"
 
 ingress:
   enabled: false
